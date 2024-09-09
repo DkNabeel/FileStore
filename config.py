@@ -32,8 +32,8 @@ FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", "-1002030167688"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
-START_PIC = os.environ.get("START_PIC", "")
-FORCE_PIC = os.environ.get("FORCE_PIC", "")
+START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/0552ffd2b8c6796a37af4.jpg")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/0552ffd2b8c6796a37af4.jpg")
 
 HELP_TXT = "<b>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ store ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @DK_MoviesPoint\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ and get the files.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/RoronoaZo0ro>Roronoa</a></b>"
 ABOUT_TXT = "<b>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/RoronoaZo0ro>Roronoa</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/RoronoaZo0ro>MoviesPoint</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/RoronoaZo0ro>Roronoa</a></b>"
